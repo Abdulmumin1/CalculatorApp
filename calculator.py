@@ -1,3 +1,8 @@
+"""
+calculator with pyqt5
+author: abdulmumin abdulkarim
+
+"""
 from PyQt5.QtWidgets import QApplication, QWidget, QGridLayout, QVBoxLayout, QPushButton, QLineEdit, QListWidget
 
 class Main(QWidget):
