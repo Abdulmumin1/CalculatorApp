@@ -1,2 +1,7 @@
-# simple_calculator_with_pyqt5
-this is a simple and basic calculator build in pyqt5
+# Calculator
+
+calculator desktop app.
+
+## Built with
+[<img src="https://img.shields.io/badge/python-red.svg?logo=LOGO">]()
+[<img src="https://img.shields.io/badge/PyQt-yellow.svg?logo=LOGO">]()
