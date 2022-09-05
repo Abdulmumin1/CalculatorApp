@@ -12,7 +12,7 @@ calculator desktop app.
 build from source
 Clone the repo 
 ```bash
-git clone https://github.com/Abdulmumin1/Calculator App.git
+git clone https://github.com/Abdulmumin1/CalculatorApp.git
 cd CalculatorApp
 
 ```
