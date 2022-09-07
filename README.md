@@ -20,6 +20,6 @@ Create executable
 ```bash 
 
 pip install pyinstaller
-pyinstaller --windowed --icon CUSTOM/ICON/PATH main.py
+pyinstaller --windowed --onefile --icon CUSTOM/ICON/PATH main.py
 
 ```
